@@ -1,0 +1,15 @@
+.Worklist {
+  display: flex;
+  justify-content: space-between;
+  margin: 5em 0;
+}
+.Worklist a{
+  color: white;
+}
+.work {
+  width: 25%;
+}
+.work img{
+  width: 100%;
+  height: auto;
+}
